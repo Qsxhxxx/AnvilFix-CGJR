@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "qsxhxxx.anvilfix.mixin",
+  "refmap": "${mod_id}.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinAnvilMenu",
+    "MixinItemStack"
+  ],
+  "client": [
+    "client.MixinAnvilScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}

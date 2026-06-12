@@ -1,0 +1,5 @@
+{
+  "config.anvilfix_cgjr.level_limit": "铁砧等级上限",
+ "config.anvilfix_cgjr.remove_incremental_repair_cost": "修复消耗不增长",
+ "config.anvilfix_cgjr.xp_formula": "经验消耗公式：物品默认经验（固定）+附魔等级部分加成（可修改）"
+}
