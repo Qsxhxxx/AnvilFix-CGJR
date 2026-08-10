@@ -1,4 +1,4 @@
-# Anvil XP Fix
+# Anvil XP
 A Forge mod for Minecraft 1.20.1 that fixes and extends vanilla anvil mechanics.
 
 ## Features
