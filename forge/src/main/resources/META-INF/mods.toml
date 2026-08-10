@@ -1,0 +1,25 @@
+# Forge Mods.toml 配置文件
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+
+[[mods]]
+modId = "anvil_xp_fix"
+version = "${mod_version}"
+displayName = "Anvil XP Fix"
+authors = "qsxhxxx"
+description = '''修复铁砧经验消耗问题'''
+
+[[dependencies.anvil_xp_fix]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,48)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.anvil_xp_fix]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
