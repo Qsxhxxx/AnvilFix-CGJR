@@ -1,0 +1,1 @@
+{"config.anvil_xp_fix.general.levelLimit": "铁砧等级上限", "config.anvil_xp_fix.general.removeIncrementalRepairCost": "修复消耗不增长", "config.anvil_xp_fix.general.xpFormula": "经验消耗公式", "config.anvil_xp_fix.general.keepOverLevelEnchantment": "保留超限附魔等级", "config.anvil_xp_fix.general.overLevelDiminishFactor": "超限效果递减系数", "config.anvil_xp_fix.general.debugLogEnabled": "调试日志"}
